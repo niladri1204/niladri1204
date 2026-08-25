@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated / Gradient Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=434343,1a1a1a&height=180&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+<!-- Dark Mode Pink Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,ff007f&height=180&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ff007f&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 ### 🌐 Connect With Me
@@ -91,7 +91,7 @@
     <td width="50%" valign="top" style="padding: 16px;">
       <h3 align="center">🛒 CartIntel</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Focus-Product_Discovery-FF8C00?style=flat-square" alt="Focus"/>
+        <img src="https://img.shields.io/badge/Focus-Product_Discovery-FF007F?style=flat-square" alt="Focus"/>
         <img src="https://img.shields.io/badge/Status-In_Development-00BFFF?style=flat-square" alt="Status"/>
       </p>
       <p align="center">
@@ -106,6 +106,7 @@
   </tr>
 </table>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=434343,1a1a1a&height=100&section=footer" width="100%" alt="Footer Wave" />
+<!-- Dark Mode Pink Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,ff007f&height=100&section=footer" width="100%" alt="Footer Wave" />
+
 </div>
