@@ -17,3 +17,24 @@ I enjoy working at the intersection of **software engineering, artificial intell
 * 🚀 Currently building **CartIntel**, an intelligent product discovery and comparison system
 * 📚 Continuously learning and improving my engineering fundamentals
 
+---
+
+## What I'm Currently Building
+
+### 🛒 CartIntel
+
+An intelligent product discovery and comparison system focused on understanding products beyond simple keyword matching.
+
+I'm building CartIntel as a complete engineering system, working across:
+
+* Product discovery and acquisition
+* Category and attribute intelligence
+* Product identity normalization
+* Product matching and entity resolution
+* Search and ranking
+* Browser extension architecture
+* Backend systems and APIs
+
+The goal is to build a system that can **understand what a product actually is, find equivalent products across sources, and help users make better purchasing decisions.**
+
+
