@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Aesthetic Moving Wave Header (Upload your .gif to your repo and update the src) -->
-<img src="your-animated-wave.gif" width="100%" alt="Aesthetic Wave Header" />
+<!-- Animated / Gradient Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Intelligent+Systems" alt="Typing SVG" />
@@ -106,7 +106,7 @@
   </tr>
 </table>
 
-<!-- Aesthetic Moving Wave Footer (Upload your .gif to your repo and update the src) -->
-<img src="your-animated-wave.gif" width="100%" alt="Aesthetic Wave Footer" style="transform: scaleY(-1);" />
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
