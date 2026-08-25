@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Dark Mode Blue Header Banner (Cache Busted) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,0072ff,00c6ff&height=180&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling&v=newblue" width="100%" alt="Header Banner" />
+<!-- Dark Mode Blue Header Banner (Forced New Render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,0072ff,00c6ff&height=182&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Intelligent+Systems&v=newblue" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3001&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 ### 🌐 Connect With Me
@@ -106,7 +106,7 @@
   </tr>
 </table>
 
-<!-- Dark Mode Blue Footer Wave (Cache Busted) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,0072ff,00c6ff&height=100&section=footer&v=newblue" width="100%" alt="Footer Wave" />
+<!-- Dark Mode Blue Footer Wave (Forced New Render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,0072ff,00c6ff&height=102&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
