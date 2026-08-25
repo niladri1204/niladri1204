@@ -16,9 +16,9 @@
 
 ---
 
-### /// Tech Stack
+### 💻 Tech Stack
 
-**Languages**<br>
+**💻 Languages**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,7 +29,7 @@
 
 <br>
 
-**Frontend / Web**<br>
+**🌐 Frontend / Web**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -37,7 +37,7 @@
 
 <br>
 
-**Backend & Database**<br>
+**⚙️ Backend & Database**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -45,19 +45,19 @@
 
 <br>
 
-**APIs / Services**<br>
+**🔌 APIs / Services**<br>
 ![REST API](https://img.shields.io/badge/REST_API-00758F?style=for-the-badge&logo=json&logoColor=white)
 ![Serper Search API](https://img.shields.io/badge/Serper_Search_API-000000?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini Visual API](https://img.shields.io/badge/Gemini_Visual_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 <br>
 
-**AI / Intelligent Systems**<br>
+**🧠 AI / Intelligent Systems**<br>
 <!-- Add your AI tools/frameworks here when applicable (e.g., PyTorch, Langchain, NLP libraries) -->
 
 <br>
 
-**Tools & DevOps**<br>
+**🛠️ Tools & DevOps**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
@@ -67,12 +67,12 @@
 
 ---
 
-### /// Featured Projects
+### 🚀 Featured Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" style="padding: 16px;">
-      <h3 align="center">SmartRanker</h3>
+      <h3 align="center">🧠 SmartRanker</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Focus-NLP_%26_AI-0052D4?style=flat-square" alt="Focus"/>
         <img src="https://img.shields.io/badge/Status-Active-32CD32?style=flat-square" alt="Status"/>
@@ -87,7 +87,7 @@
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 16px;">
-      <h3 align="center">CartIntel</h3>
+      <h3 align="center">🛒 CartIntel</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Focus-Product_Discovery-00c6ff?style=flat-square" alt="Focus"/>
         <img src="https://img.shields.io/badge/Status-In_Development-00BFFF?style=flat-square" alt="Status"/>
