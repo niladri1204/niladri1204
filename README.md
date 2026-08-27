@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dark Mode Blue Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:00c6ff,100:88d8ff&height=182&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A88,50:FF9966,100:FFC371&height=182&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3001&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Intelligent+Systems" alt="Typing SVG" />
