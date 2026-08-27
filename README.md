@@ -105,6 +105,6 @@
 </table>
 
 <!-- Dark Mode Blue Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,50:00c6ff,100:88d8ff&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A88,50:FF9966,100:FFC371&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
 
 </div>
