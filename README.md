@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Dark Mode Blue Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,0072ff,00c6ff&height=182&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=121212,0072ff,00c6ff&height=182&section=header&text=Hi%20👋,%20I'm%20Niladri&fontSize=42&fontColor=ffffff&animation=twinkling&v=1" width="100%" alt="Header Banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3001&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3001&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Intelligent+Systems&v=1" alt="Typing SVG" />
 </p>
 
 <br>
